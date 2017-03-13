@@ -1,5 +1,8 @@
 _repo: The-Vicar-of-Wakefield_2667
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goldsmith, Oliver
@@ -12,6 +15,8 @@ description: "The Vicar of Wakefield — subtitled A Tale, Supposed to be writte
   \ Himself — is a novel by Irish writer Oliver Goldsmith (1728–1774). It was written\
   \ from 1761 to 1762 and published in 1766. It was one of the most popular and widely\
   \ read 18th-century novels among Victorians.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2667#The-Vicar-of-Wakefield
 gutenberg_issued: '2001-06-01'
 gutenberg_type: Text
 identifiers:
