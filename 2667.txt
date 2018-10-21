@@ -12,6 +12,7 @@ Author: Oliver Goldsmith
 
 Posting Date: January 8, 2009 [EBook #2667]
 Release Date: June, 2001
+Last Updated: July 23, 2016
 
 Language: English
 
@@ -160,8 +161,8 @@ CONTENTS
 
 CHAPTER 1
 
-The description of the family of Wakefield; in which a kindred likeness
-prevails as well of minds as of persons
+     The description of the family of Wakefield; in which a
+     kindred likeness prevails as well of minds as of persons
 
 I was ever of opinion, that the honest man who married and brought up
 a large family, did more service than he who continued single, and only
@@ -273,8 +274,8 @@ simple, and inoffensive.
 
 CHAPTER 2
 
-Family misfortunes. The loss of fortune only serves to encrease the
-pride of the worthy
+     Family misfortunes. The loss of fortune only serves to
+     encrease the pride of the worthy
 
 
 The temporal concerns of our family were chiefly committed to my wife's
@@ -388,8 +389,8 @@ prudence, too often the only one that is left us at seventy-two.
 
 CHAPTER 3
 
-A migration. The fortunate circumstances of our lives are generally
-found at last to be of our own procuring
+     A migration. The fortunate circumstances of our lives are
+     generally found at last to be of our own procuring
 
 
 The only hope of our family now was, that the report of our misfortunes
@@ -589,8 +590,8 @@ happy.
 
 CHAPTER 4
 
-A proof that even the humblest fortune may grant happiness, which
-depends not on circumstance, but constitution
+     A proof that even the humblest fortune may grant happiness,
+     which depends not on circumstance, but constitution
 
 
 The place of our retreat was in a little neighbourhood, consisting
@@ -701,8 +702,8 @@ improved by this curtailing.
 
 CHAPTER 5
 
-A new and great acquaintance introduced. What we place most hopes upon,
-generally proves most fatal
+     A new and great acquaintance introduced. What we place most
+     hopes upon, generally proves most fatal
 
 
 At a small distance from the house my predecessor had made a seat,
@@ -813,7 +814,7 @@ guarded, is scarce worth the centinel.
 
 CHAPTER 6
 
-The happiness of a country fire-side
+     The happiness of a country fire-side
 
 
 As we carried on the former dispute with some degree of warmth, in order
@@ -921,8 +922,8 @@ another.
 
 CHAPTER 7
 
-A town wit described. The dullest fellows may learn to be comical for a
-night or two
+     A town wit described. The dullest fellows may learn to be
+     comical for a night or two
 
 
 When the morning arrived on which we were to entertain our young
@@ -1054,8 +1055,8 @@ mother to make the gooseberry-pye.'
 
 CHAPTER 8
 
-An amour, which promises little good fortune, yet may be productive of
-much
+     An amour, which promises little good fortune, yet may be
+     productive of much
 
 
 The next morning we were again visited by Mr Burchell, though I began,
@@ -1258,8 +1259,8 @@ are furnished with different abilities, adapted for mutual inspection.
 
 CHAPTER 9
 
-Two ladies of great distinction introduced. Superior finery ever seems
-to confer superior breeding
+     Two ladies of great distinction introduced. Superior finery
+     ever seems to confer superior breeding
 
 
 Mr Burchell had scarce taken leave, and Sophia consented to dance with
@@ -1361,8 +1362,9 @@ sullen looks and short answers the whole day ensuing.
 
 CHAPTER 10
 
-The family endeavours to cope with their betters. The miseries of the
-poor when they attempt to appear above their circumstances
+     The family endeavours to cope with their betters. The
+     miseries of the poor when they attempt to appear above their
+     circumstances
 
 
 I now began to find that all my long and painful lectures upon
@@ -1489,7 +1491,7 @@ more humility.
 
 CHAPTER 11
 
-The family still resolve to hold up their heads
+     The family still resolve to hold up their heads
 
 
 Michaelmas eve happening on the next day, we were invited to burn nuts
@@ -1643,8 +1645,8 @@ this we rested our petition.
 
 CHAPTER 12
 
-Fortune seems resolved to humble the family of Wakefield. Mortifications
-are often more painful than real calamities
+     Fortune seems resolved to humble the family of Wakefield.
+     Mortifications are often more painful than real calamities
 
 
 When we were returned home, the night was dedicated to schemes of future
@@ -1797,8 +1799,8 @@ between us.'
 
 CHAPTER 13
 
-Mr Burchell is found to be an enemy; for he has the confidence to give
-disagreeable advice
+     Mr Burchell is found to be an enemy; for he has the
+     confidence to give disagreeable advice
 
 
 Our family had now made several attempts to be fine; but some unforeseen
@@ -1902,8 +1904,8 @@ strength enough to prevent, it seldom has justice enough to accuse.
 
 CHAPTER 14
 
-Fresh mortifications, or a demonstration that seeming calamities may be
-real blessings
+     Fresh mortifications, or a demonstration that seeming
+     calamities may be real blessings
 
 
 The journey of my daughters to town was now resolved upon, Mr Thornhill
@@ -2079,8 +2081,8 @@ ours, too humble to excite envy, and too inoffensive to create disgust.
 
 CHAPTER 15
 
-All, Mr Burchell's villainy at once detected. The folly of being
-over-wise
+     All, Mr Burchell's villainy at once detected. The folly of
+     being over-wise
 
 
 That evening and a part of the following day was employed in fruitless
@@ -2231,7 +2233,7 @@ they have still remaining.'
 
 CHAPTER 16
 
-The family use art, which is opposed with, still greater
+     Family use art, which is opposed with, still greater
 
 
 Whatever might have been Sophia's sensations, the rest of the family
@@ -2394,8 +2396,8 @@ country, had paid her his addresses.
 
 CHAPTER 17
 
-Scarce any virtue found to resist the power of long and pleasing
-temptation
+     Scarce any virtue found to resist the power of long and
+     pleasing temptation
 
 As I only studied my child's real happiness, the assiduity of Mr
 Williams pleased me, as he was in easy circumstances, prudent, and
@@ -2635,7 +2637,7 @@ from shame, I may prevent the continuance of iniquity.'
 
 CHAPTER 18
 
-The pursuit of a father to reclaim a lost child to virtue
+     The pursuit of a father to reclaim a lost child to virtue
 
 
 Tho' the child could not describe the gentleman's person who handed his
@@ -2767,8 +2769,8 @@ were prevailed on to comply.
 
 CHAPTER 19
 
-The description of a person discontented with the present government,
-and apprehensive of the loss of our liberties
+     The description of a person discontented with the present
+     government, and apprehensive of the loss of our liberties
 
 
 The house where we were to be entertained, lying at a small distance
@@ -3014,8 +3016,8 @@ answers.
 
 CHAPTER 20
 
-The history of a philosophic vagabond, pursuing novelty, but losing
-content
+     The history of a philosophic vagabond, pursuing novelty, but
+     losing content
 
 
 After we had supped, Mrs Arnold politely offered to send a couple of her
@@ -3455,8 +3457,8 @@ the present company has happily hindered me from acting.'
 
 CHAPTER 21
 
-The short continuance of friendship amongst the vicious, which is coeval
-only with mutual satisfaction
+     The short continuance of friendship amongst the vicious,
+     which is coeval only with mutual satisfaction
 
 
 My son's account was too long to be delivered at once, the first part of
@@ -3705,7 +3707,7 @@ you still, Olivia, and will forget it.
 
 CHAPTER 22
 
-Offences are easily pardoned where there is love at bottom
+     Offences are easily pardoned where there is love at bottom
 
 
 The next morning I took my daughter behind me, and set out on my return
@@ -3827,7 +3829,7 @@ virtue, than an hundred acts of justice.'
 
 CHAPTER 23
 
-None but the guilty can be long and completely miserable
+     None but the guilty can be long and completely miserable
 
 
 Some assiduity was now required to make our present abode as convenient
@@ -3966,7 +3968,7 @@ round our little habitation.
 
 CHAPTER 24
 
-Fresh calamities
+     Fresh calamities
 
 
 The next morning the sun rose with peculiar warmth for the season; so
@@ -4124,8 +4126,8 @@ several hints to use dispatch, in about an hour we were ready to depart.
 
 CHAPTER 25
 
-No situation, however wretched it seems, but has some sort of comfort
-attending it
+     No situation, however wretched it seems, but has some sort
+     of comfort attending it
 
 
 We set forward from this peaceful neighbourhood, and walked on slowly.
@@ -4243,7 +4245,7 @@ him for that purpose the first opportunity; nor do I in the least doubt
 but he will comply with my request, and as to my evidence, you need be
 under no uneasiness about that.'
 
-'Well, sit,' cried he, 'all the return I can make shall be yours. You
+'Well, sir,' cried he, 'all the return I can make shall be yours. You
 shall have more than half my bed-cloaths to night, and I'll take care to
 stand your friend in the prison, where I think I have some influence.'
 
@@ -4271,8 +4273,8 @@ the utmost tranquility till morning.
 
 CHAPTER 26
 
-A reformation in the gaol. To make laws complete, they should reward as
-well as punish
+     A reformation in the gaol. To make laws complete, they
+     should reward as well as punish.
 
 
 The next morning early I was awakened by my family, whom I found in
@@ -4451,7 +4453,7 @@ would try what could be done.
 
 CHAPTER 27
 
-The same subject continued
+     The same subject continued
 
 
 The next morning I communicated to my wife and children the scheme I had
@@ -4566,7 +4568,7 @@ multitude of laws produce new vices, and new vices call for fresh
 restraints.
 
 It were to be wished then that power, instead a contriving new laws
-to punish vice, instead of drawing hard the cards of society till a
+to punish vice, instead of drawing hard the cords of society till a
 convulsion come to burst them, instead of cutting away wretches as
 useless, before we have tried their utility, instead of converting
 correction into vengeance, it were to be wished that we tried the
@@ -4584,10 +4586,10 @@ and that very little blood will serve to cement our security.
 
 CHAPTER 28
 
-Happiness and misery rather the result of prudence than of virtue in
-this life. Temporal evils or felicities being regarded by heaven as
-things merely in themselves trifling and unworthy its care in the
-distribution
+     Happiness and misery rather the result of prudence than of
+     virtue in this life. Temporal evils or felicities being
+     regarded by heaven as things merely in themselves trifling
+     and unworthy its care in the distribution
 
 
 I had now been confined more than a fortnight, but had not since my
@@ -4654,7 +4656,7 @@ every thing that is just and good. I would advise you to send him a
 letter by the post, intimating all his nephew's ill usage, and my life
 for it that in three days you shall have an answer.' I thank'd him for
 the hint, and instantly set about complying; but I wanted paper, and
-unluckily all our money had been laid out that morning in provisions,
+unluckily all our money had been laid out that morning in provisions;
 however he supplied me.
 
 For the three ensuing days I was in a state of anxiety, to know what
@@ -4671,7 +4673,7 @@ however sate by me, and while I was stretched on my straw, read to me by
 turns, or listened and wept at my instructions. But my daughter's
 health declined faster than mine; every message from her contributed
 to encrease my apprehensions and pain. The fifth morning after I had
-written the letter which was sent to sit William Thornhill, I was
+written the letter which was sent to Sir William Thornhill, I was
 alarmed with an account that she was speechless. Now it was, that
 confinement was truly painful to me; my soul was bursting from its
 prison to be near the pillow of my child, to comfort, to strengthen
@@ -4736,7 +4738,7 @@ them for the sake of their heavenly father.'
 Just as I spoke, my wife, whom I had not seen that day before, appeared
 with looks of terror, and making efforts, but unable to speak. 'Why, my
 love,' cried I, 'why will you thus encrease my afflictions by your
-own, what though no submissions can turn our severe mister, tho' he has
+own, what though no submissions can turn our severe master, tho' he has
 doomed me to die in this place of wretchedness, and though we have lost
 a darling child, yet still you will find comfort in your other children
 when I shall be no more.' 'We have indeed lost,' returned she, 'a
@@ -4764,7 +4766,7 @@ said my wife, 'you seem to want comfort even more than I. Our distresses
 are great; but I could bear this and more, if I saw you but easy. They
 may take away my children and all the world, if they leave me but you.'
 
-My Son, who was present, endeavoured to moderate our grief; he bade
+My son, who was present, endeavoured to moderate our grief; he bade
 us take comfort, for he hoped that we might still have reason to be
 thankful.--'My child,' cried I, 'look round the world, and see if there
 be any happiness left me now. Is not every ray of comfort shut out;
@@ -4909,10 +4911,10 @@ and then addressed them with the following exhortation.
 
 CHAPTER 29
 
-The equal dealings of providence demonstrated with regard to the happy
-and the miserable here below. That from the nature of pleasure and pain,
-the wretched must be repaid the balance of their sufferings in the life
-hereafter
+     The equal dealings of providence demonstrated with regard to
+     the happy and the miserable here below. That from the nature
+     of pleasure and pain, the wretched must be repaid the
+     balance of their sufferings in the life hereafter
 
 
 My friends, my children, and fellow sufferers, when I reflect on the
@@ -5053,8 +5055,8 @@ and still, to crown all, unending.
 
 CHAPTER 30
 
-Happier prospects begin to appear. Let us be inflexible, and fortune
-will at last change in our favour
+     Happier prospects begin to appear. Let us be inflexible, and
+     fortune will at last change in our favour
 
 
 When I had thus finished and my audience was retired, the gaoler, who
@@ -5107,7 +5109,7 @@ whom I cried out for assistance; but they disregarded my entreaties.
 In the mean time the ruffian himself used every art to hinder me from
 crying out: he flattered and threatened by turns, and swore that if I
 continued but silent, he intended no harm. In the mean time I had broken
-the canvas that he, had drawn up, and whom should I perceive at some
+the canvas that he had drawn up, and whom should I perceive at some
 distance but your old friend Mr Burchell, walking along with his usual
 swiftness, with the great stick for which we used so much to ridicule
 him. As soon as we came within hearing, I called out to him by name,
@@ -5306,7 +5308,7 @@ request the Baronet complied, and desired Mr Thornhill to be introduced.
 
 CHAPTER 31
 
-Former benevolence now repaid with unexpected interest
+     Former benevolence now repaid with unexpected interest
 
 
 Mr Thornhill made his entrance with a smile, which he seldom wanted, and
@@ -5705,7 +5707,7 @@ Miss Wilmot and her father; my wife too kissed her daughter with much
 affection, as, to use her own expression, she was now made an honest
 woman of. Sophia and Moses followed in turn, and even our benefactor
 Jenkinson desired to be admitted to that honour. Our satisfaction seemed
-scarce capable of increase. Sir William, whose greatest leasure was in
+scarce capable of increase. Sir William, whose greatest pleasure was in
 doing good, now looked round with a countenance open as the sun, and saw
 nothing but joy in the looks of all except that of my daughter Sophia,
 who, for some reasons we could not comprehend, did not seem perfectly
@@ -5764,7 +5766,7 @@ undisturbed till morning.
 
 CHAPTER 32.
 
-The Conclusion
+     The Conclusion
 
 
 The next morning as soon as I awaked I found my eldest son sitting by my
